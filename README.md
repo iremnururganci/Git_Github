@@ -29,6 +29,11 @@ Git ve github aynı şey değildir. Git kontrol sistemidir,github yazılan kodla
     TEMEL KAVRAMLAR-KOMUTLAR;
 
 
+
+
+Windows Komutlar;
+
+
 Git Clone:Github plaftormundaki dosyayı masaüstüne çekme(alma)işlemidir. "git clone projenin_github_url"
 
 
@@ -50,6 +55,11 @@ Explorer .:Dosya aç.
 Code .:Kodu aç.
 
 
+
+
+Git Komutlar;
+
+
 Git status:Dosya üzerinde yapılan değişiklkleri gösterir.
 
 
@@ -64,6 +74,11 @@ Git commit-m"İlk komut açıklaması,klon mesajı eklendi.":Ne yaptığımızı
 
 
 Git push origin master:Dosayanın son ahlini githup hesabına aktarma işlemini yapan komut...
+
+
+
+
+
 
 
 
