@@ -31,7 +31,7 @@ Git ve github aynı şey değildir. Git kontrol sistemidir,github yazılan kodla
 
 
 
-Windows Komutlar;
+Windows Komutları;
 
 
 Git Clone:Github plaftormundaki dosyayı masaüstüne çekme(alma)işlemidir. "git clone projenin_github_url"
@@ -62,7 +62,12 @@ Code .:Kodu aç.
 
 
 
-Git Komutlar;
+
+
+
+
+
+Git Komutları;
 
 
 Git status:Dosya üzerinde yapılan değişiklkleri gösterir.
